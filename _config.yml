@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuo Chen"
-description              : "NLPR, Tencent Hunyuan3D"
+description              : "Focus on 3D foundation and application models, e.g., Artistic Mesh Generation, Unified 3DMultimodal Models, Auto UV Unwrapping, 3D Animation, etc."
 repository               : "chenzhuooooo/chenzhuooooo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuo Chen"
   avatar           : "images/photo_chenzhuo.jpg"
-  bio              : "Tencent Hunyuan3D"
+  bio              : "Hunyuan3D, Tencent"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
