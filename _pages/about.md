@@ -17,7 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Chen Zhuo blabla.
+I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on AI 3D Pipeline. 
+Our team is dedicated to reimagining the traditional 3D art pipeline using 3D generative models.
+Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc.
+We are actively looking for talented and like-minded researchers to join our team, including both full-time positions and internships. If you are seeking any form of academic cooperation, please feel free to contact me via email at zhuooochen@tencent.com or WeChat czxytg(To expedite the process, please include basic information, such as your name, school, and research focus.).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>800+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
