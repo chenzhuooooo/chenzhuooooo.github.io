@@ -8,11 +8,12 @@
 # Site Settings
 title                    : "Zhuo Chen"
 description              : |
-    Focus on 3D foundation and application models: 
-    * Artistic Mesh Generation
-    * Unified 3D Multimodal Models
-    * Auto UV Unwrapping, 3D Animation
-    * etc.
+  Focus on 3D foundation and application models: 
+  - Artistic Mesh Generation
+  - 3D Multimodal Model
+  - Auto UV Unwrapping
+  - 3D Animation
+  - etc.
 repository               : "chenzhuooooo/chenzhuooooo.github.io"
 google_scholar_stats_use_cdn : true
 
