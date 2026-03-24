@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on AI 3D Pipeline. 
+I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on **AI 3D Pipeline**. 
 Our team is dedicated to reimagining the traditional 3D art pipeline using 3D generative models.
-Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc.
-We are actively looking for talented and like-minded researchers to join our team, including both full-time positions and internships. If you are seeking any form of academic cooperation, please feel free to contact me via email <img src='./images/email.png' style="width: 0.5em;">  <span style="color: #0e159e; font-weight: bold;">zhuooochen@tencent.com</span> or WeChat <img src='./images/wechat-logo.png' style="width: 0.5em;"> <span style="color: #228315; font-weight: bold;">czxytg</span> (To expedite the process, please include basic information, such as your name, school, and research focus.).
+Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc. Welcome to explore our AI models at [Hunyuan3D HomePage](https://3d.hunyuan.tencent.com/) or [Hunyuan3D Studio](https://3d.hunyuan.tencent.com/studio).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>800+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<span style="color: #ee0909; font-weight: bold;">We are actively looking for talented and like-minded researchers to join our team, including both full-time positions and internships.</span> If you are seeking any form of academic cooperation, please feel free to contact me via email <img src='./images/email.png' style="width: 1.0em;">  <span style="color: #0e159e; font-weight: bold;">zhuooochen@tencent.com</span> or WeChat <img src='./images/wechat-logo.png' style="width: 1.0em;"> <span style="color: #228315; font-weight: bold;">czxytg</span> (To expedite the process, please include basic information, such as your name, school, and research focus.).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 Three papers are accepted by CVPR 2026. 
+- *2022.02*: &nbsp;🎉🎉 dljslfkjlsj 
 
 # 📝 Publications 
 
