@@ -47,7 +47,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/pdf/2509.12815) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
+[**Paper**](https://arxiv.org/pdf/2509.12815) \| [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
 </div>
 </div>
