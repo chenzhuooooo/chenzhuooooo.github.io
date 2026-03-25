@@ -28,6 +28,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 - *2026.02*: &nbsp;🎉🎉 Three papers are accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2025.
 - *2022.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2022.
 - *2020.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2020.
@@ -69,7 +70,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2024</div><img src='images/publications/report_hunyuan3D1.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2024</div><img src='images/publications/report_hunyuan3D1.0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hunyuan3D 1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://arxiv.org/abs/2411.02293)
