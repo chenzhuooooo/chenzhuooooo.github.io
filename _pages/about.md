@@ -39,14 +39,29 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 ## Technical Reports
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2025</div><img src='images/publications/report_hunyuan3D2.0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2025</div><img src='images/publications/report_hunyuan3Dstudio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/pdf/2509.12815)
+
+**Zhui Chen** is project leader.
+
+[**Paper**](https://arxiv.org/abs/2509.12815) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2025</div><img src='images/publications/report_hunyuan3D2.0.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202)
 
 **Zhui Chen** is project leader of the studio part.
 
-[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/abs/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/) 
+[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/abs/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
 </div>
 </div>
@@ -69,6 +84,22 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/cvpr2025_bpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BPT: Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/pdf/2411.07025)
+
+- A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
+
+[**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/abs/2411.07025) [**Code**](https://github.com/whaohan/bpt)
+
+</div>
+</div>
+
 
 
 
