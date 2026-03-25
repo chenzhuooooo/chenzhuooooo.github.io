@@ -39,25 +39,24 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 ## Technical Reports
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2025</div><img src='images/publications/report_hunyuan3D2.0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
+[Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202)
 
-**Zhuo Chen** is project leader.
+**Zhui Chen** is project leader of the studio part.
 
-[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
-
-- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
+[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/abs/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/) 
 
 </div>
 </div>
+
 
 
 
 ## Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
@@ -66,7 +65,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 [**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
-- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
+- A novel 3D-aware RL algorithm named Advantage-guided Ranking Preference Optimization (ARPO).
 
 </div>
 </div>
