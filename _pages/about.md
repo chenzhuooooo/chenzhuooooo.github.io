@@ -21,7 +21,7 @@ I am currently a Senior Researcher at Tencent Hunyuan, leading a research team f
 Our team is dedicated to reimagining the traditional 3D art pipeline using 3D generative models.
 Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc. Welcome to explore our AI models at [Hunyuan3D HomePage](https://3d.hunyuan.tencent.com/) or [Hunyuan3D Studio](https://3d.hunyuan.tencent.com/studio).
 
-🔥🔥🔥<span style="color: #ee0909; font-weight: bold;">We are actively looking for talented and like-minded researchers to join our team, including both full-time positions and internships.</span>🔥🔥🔥 If you are seeking any form of academic cooperation, please feel free to contact me via email <img src='./images/email.png' style="width: 1.0em;">  <span style="color: #0e159e; font-weight: bold;">zhuooochen@tencent.com</span> or WeChat <img src='./images/wechat-logo.png' style="width: 1.0em;"> <span style="color: #228315; font-weight: bold;">czxytg</span> (To expedite the process, please include basic information, such as your name, school, and research focus.).
+🔥🔥🔥<span style="color: #ee0909; font-weight: bold;">We are constantly recruiting both full-time members and interns.</span>🔥🔥🔥 If you are seeking any form of academic cooperation, please feel free to contact me via email <img src='./images/email.png' style="width: 1.0em;">  <span style="color: #0e159e; font-weight: bold;">zhuooochen@tencent.com</span> or WeChat <img src='./images/wechat-logo.png' style="width: 1.0em;"> <span style="color: #228315; font-weight: bold;">czxytg</span> (To expedite the process, please include basic information, such as your name, school, and research focus.).
 
 
 # 🔥 News
@@ -37,19 +37,56 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+## Technical Reports
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhuo Chen** is project leader.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='qTIpn-8AAAAJ:u-x6o8ySG0sC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+
+- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+
+## Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+
+- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+
+- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
