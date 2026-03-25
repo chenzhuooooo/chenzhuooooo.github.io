@@ -69,6 +69,20 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2024</div><img src='images/publications/report_hunyuan3D1.0.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hunyuan3D 1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation](https://arxiv.org/abs/2411.02293)
+
+**Zhuo Chen** is project leader of the Multi-view Generation part.
+
+[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/pdf/2411.02293) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) 
+
+</div>
+</div>
+
+
+
 ## Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
@@ -156,9 +170,72 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/iclr2026_artuv.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ArtUV: Artist-style UV Unwrapping](https://arxiv.org/abs/2509.20710)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/pdf/2509.20710) 
+
+- A fully automated, end-to-end method for generating artist-style UV unwrapping.
+
+</div>
+</div>
 
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/neurips2025_autoconnect.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Auto-Connect: Connectivity-Preserving RigFormer with Direct Preference Optimization](https://arxiv.org/abs/2506.11430)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://autoconnectrig.github.io/) [**Paper**](https://arxiv.org/pdf/2506.11430) 
+
+- A novel approach for automatic rigging that explicitly preserves skeletal connectivity through a connectivity-preserving tokenization scheme.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publications/neurips2025_meshrft.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mesh-RFT: Enhancing Mesh Generation via Fine-grained Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.16761)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://hitcslj.github.io/mesh-rft/) [**Paper**](https://arxiv.org/pdf/2505.16761) 
+
+- A novel fine-grained reinforcement finetuning framework that employs Masked Direct Preference Optimization (M-DPO)
+to enable localized refinement 3D mesh generation.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publications/icml2025_freemesh.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreeMesh: Boosting Mesh Generation with Coordinates Merging](https://arxiv.org/abs/2505.13573)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://hitcslj.github.io/mesh-rft/) [**Paper**](https://arxiv.org/pdf/2505.13573) 
+
+- A mathematical framework, PTME, to evaluate existing mesh tokenizers without
+any training.
+
+</div>
+</div>
 
 
 
@@ -171,23 +248,6 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 [**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/pdf/2411.07025) [**Code**](https://github.com/whaohan/bpt)
 
 - A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
-
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/abs/2603.00526)
-
-**Zhuo Chen** is project leader.
-
-[**Paper**](https://arxiv.org/pdf/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
-
-- In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
 
 </div>
 </div>
