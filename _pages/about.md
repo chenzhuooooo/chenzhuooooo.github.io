@@ -88,14 +88,56 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[X-Part: High Fidelity And Structure Coherent Shape Decomposition And Completion](https://arxiv.org/pdf/2509.08643)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://yanxinhao.github.io/Projects/X-Part/) [**Paper**](https://arxiv.org/abs/2509.08643) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+
+- A controllable generative model designed to decompose a holistic 3D object into semantically meaningful and structurally coherent parts with high geometric fidelity.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_matpedia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MatPedia: A Universal Generative Foundation for High-Fidelity Material Synthesis](https://arxiv.org/pdf/2511.16957)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/abs/2511.16957)
+
+- A unified framework handling multiple material tasks—text-to-material, image-tomaterial, and intrinsic decomposition.
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/cvpr2025_bpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BPT: Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/pdf/2411.07025)
 
-- A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
-
 [**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/abs/2411.07025) [**Code**](https://github.com/whaohan/bpt)
+
+- A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
 
 </div>
 </div>
