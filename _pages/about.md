@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on **AI 3D Pipeline**. 
+I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on **AI 3D Pipeline Models**. 
 Our team is dedicated to reimagining the traditional 3D art pipeline using 3D generative models.
 Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc. Welcome to explore our AI models at [Hunyuan3D HomePage](https://3d.hunyuan.tencent.com/) or [Hunyuan3D Studio](https://3d.hunyuan.tencent.com/studio).
 
@@ -49,6 +49,8 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 [**Paper**](https://arxiv.org/pdf/2509.12815) \| [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
+- An end-to-end AI-powered content creation platform designed to revolutionize the game production pipeline by automating and streamlining the generation of game-ready 3D assets.
+
 </div>
 </div>
 
@@ -62,8 +64,9 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader of the studio part.
 
-[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/pdf/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
+[**Project**](https://3d-models.hunyuan.tencent.com) \| [**Paper**](https://arxiv.org/pdf/2501.12202) \| [**Code**](https://github.com/Tencent/Hunyuan3D-2) \| [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
+- An advanced large-scale 3D synthesis system based on VAE & DiT framework for generating high-resolution textured 3D assets.
 </div>
 </div>
 
@@ -77,8 +80,9 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader of the Multi-view Generation part.
 
-[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/pdf/2411.02293) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) 
+[**Project**](https://3d-models.hunyuan.tencent.com) \| [**Paper**](https://arxiv.org/pdf/2411.02293) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) 
 
+- A two-stage 3D generation approach based on multi-view diffusion and sparse-view reconstruction, that support both text- and image condition.
 </div>
 </div>
 
@@ -93,7 +97,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/pdf/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Paper**](https://arxiv.org/pdf/2603.00526) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
 - A novel 3D-aware RL algorithm named Advantage-guided Ranking Preference Optimization (ARPO).
 
@@ -110,7 +114,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://yanxinhao.github.io/Projects/X-Part/) [**Paper**](https://arxiv.org/pdf/2509.08643) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Project**](https://yanxinhao.github.io/Projects/X-Part/) \| [**Paper**](https://arxiv.org/pdf/2509.08643) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
 - A controllable generative model designed to decompose a holistic 3D object into semantically meaningful and structurally coherent parts with high geometric fidelity.
 
@@ -144,7 +148,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://chunshi.wang/Part-X-MLLM/) [**Paper**](https://arxiv.org/pdf/2511.13647) [**Code**](https://github.com/AiEson/Part-X-MLLM) [**Demo**](https://chunshi.wang/Part-X-MLLM/#playground)
+[**Project**](https://chunshi.wang/Part-X-MLLM/) \| [**Paper**](https://arxiv.org/pdf/2511.13647) \| [**Code**](https://github.com/AiEson/Part-X-MLLM) \| [**Demo**](https://chunshi.wang/Part-X-MLLM/#playground)
 
 - A native 3D multimodal large language model that unifies diverse 3D tasks by formulating them as programs in a structured, executable grammar.
 
@@ -195,7 +199,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://autoconnectrig.github.io/) [**Paper**](https://arxiv.org/pdf/2506.11430) 
+[**Project**](https://autoconnectrig.github.io/) \| [**Paper**](https://arxiv.org/pdf/2506.11430) 
 
 - A novel approach for automatic rigging that explicitly preserves skeletal connectivity through a connectivity-preserving tokenization scheme.
 
@@ -212,7 +216,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://hitcslj.github.io/mesh-rft/) [**Paper**](https://arxiv.org/pdf/2505.16761) 
+[**Project**](https://hitcslj.github.io/mesh-rft/) \| [**Paper**](https://arxiv.org/pdf/2505.16761) 
 
 - A novel fine-grained reinforcement finetuning framework that employs Masked Direct Preference Optimization (M-DPO)
 to enable localized refinement 3D mesh generation.
@@ -230,7 +234,7 @@ to enable localized refinement 3D mesh generation.
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://hitcslj.github.io/mesh-rft/) [**Paper**](https://arxiv.org/pdf/2505.13573) 
+[**Project**](https://hitcslj.github.io/mesh-rft/) \| [**Paper**](https://arxiv.org/pdf/2505.13573) 
 
 - A mathematical framework, PTME, to evaluate existing mesh tokenizers without
 any training.
@@ -246,7 +250,7 @@ any training.
 
 [BPT: Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025)
 
-[**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/pdf/2411.07025) [**Code**](https://github.com/whaohan/bpt)
+[**Project**](https://whaohan.github.io/bpt/) \| [**Paper**](https://arxiv.org/pdf/2411.07025) \| [**Code**](https://github.com/whaohan/bpt)
 
 - A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
 
@@ -254,17 +258,23 @@ any training.
 </div>
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+
+# 💻 Experience
+
+## Full time
+- *2023.08 - Present*, Hunyuan 3D, Tencent, Senior Researcher, Leader of AI 3D Pipeline Models.
+- *2023.08 - 2024.05*, Sensetime, Senior Researcher.
+- *2021.08 - 2023.08*, Huawei, Postdoctoral Researcher.
+
+## Internship
+- *2020.06 - 2021.08*, Huawei, Intern.
+- *2018.04 - 2020.06*, Sensetime, Intern.
+
+
+## Educations
+- *2015.09 - 2021.06*, Institute of Automation, Chinese Academy of Sciences (CASIA), Master and Ph.D. 
