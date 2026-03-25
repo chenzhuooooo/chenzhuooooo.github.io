@@ -42,11 +42,11 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technique Report 2025</div><img src='images/publications/report_hunyuan3Dstudio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/pdf/2509.12815)
+[Hunyuan3D Studio: End-to-End AI Pipeline for Game-Ready 3D Asset Generation](https://arxiv.org/abs/2509.12815)
 
-**Zhui Chen** is project leader.
+**Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/abs/2509.12815) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
+[**Paper**](https://arxiv.org/pdf/2509.12815) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
 </div>
 </div>
@@ -59,9 +59,9 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202)
 
-**Zhui Chen** is project leader of the studio part.
+**Zhuo Chen** is project leader of the studio part.
 
-[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/abs/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
+[**Project**](https://3d-models.hunyuan.tencent.com) [**Paper**](https://arxiv.org/pdf/2501.12202) [**Code**](https://github.com/Tencent/Hunyuan3D-2) [**Studio**](https://3d.hunyuan.tencent.com/studio) 
 
 </div>
 </div>
@@ -74,11 +74,11 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
+[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/abs/2603.00526)
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Paper**](https://arxiv.org/pdf/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
 - A novel 3D-aware RL algorithm named Advantage-guided Ranking Preference Optimization (ARPO).
 
@@ -88,14 +88,14 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_xpart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[X-Part: High Fidelity And Structure Coherent Shape Decomposition And Completion](https://arxiv.org/pdf/2509.08643)
+[X-Part: High Fidelity And Structure Coherent Shape Decomposition And Completion](https://arxiv.org/abs/2509.08643)
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://yanxinhao.github.io/Projects/X-Part/) [**Paper**](https://arxiv.org/abs/2509.08643) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Project**](https://yanxinhao.github.io/Projects/X-Part/) [**Paper**](https://arxiv.org/pdf/2509.08643) [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
 - A controllable generative model designed to decompose a holistic 3D object into semantically meaningful and structurally coherent parts with high geometric fidelity.
 
@@ -108,17 +108,50 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_matpedia.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MatPedia: A Universal Generative Foundation for High-Fidelity Material Synthesis](https://arxiv.org/pdf/2511.16957)
+[MatPedia: A Universal Generative Foundation for High-Fidelity Material Synthesis](https://arxiv.org/abs/2511.16957)
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/abs/2511.16957)
+[**Paper**](https://arxiv.org/pdf/2511.16957)
 
 - A unified framework handling multiple material tasks—text-to-material, image-tomaterial, and intrinsic decomposition.
 
 </div>
 </div>
 
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/iclr2026_partxmllm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Part-X-MLLM: Part-aware 3D Multimodal Large Language Model](https://arxiv.org/abs/2511.13647)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://chunshi.wang/Part-X-MLLM/) [**Paper**](https://arxiv.org/pdf/2511.13647) [**Code**](https://github.com/AiEson/Part-X-MLLM) [**Demo**](https://chunshi.wang/Part-X-MLLM/#playground)
+
+- A native 3D multimodal large language model that unifies diverse 3D tasks by formulating them as programs in a structured, executable grammar.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/publications/iclr2026_quadgpt.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models](https://arxiv.org/abs/2509.21420)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/pdf/2509.21420) 
+
+- The first autoregressive framework for generating quadrilateral meshes in an end-to-end manner.
+
+</div>
+</div>
 
 
 
@@ -133,9 +166,9 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/publications/cvpr2025_bpt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[BPT: Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/pdf/2411.07025)
+[BPT: Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025)
 
-[**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/abs/2411.07025) [**Code**](https://github.com/whaohan/bpt)
+[**Project**](https://whaohan.github.io/bpt/) [**Paper**](https://arxiv.org/pdf/2411.07025) [**Code**](https://github.com/whaohan/bpt)
 
 - A compressive yet efficient mesh representation called Blocked and Patchified Tokenization.
 
@@ -148,11 +181,11 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
+[Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/abs/2603.00526)
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/abs/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Paper**](https://arxiv.org/pdf/2603.00526) [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
 
 - In this work, we aim to enhance both the training efficiency and generation quality of RL in 3D mesh generation. Therefore, We propose Advantage-guided Ranking Preference Optimization (ARPO), a novel RL algorithm that achieves a better trade-off between training efficiency and generalization than current RL algorithms designed for 3D mesh generation. Based on asynchronous ARPO, we propose Mesh-Pro, which additionally introduces a novel diagonalaware mixed triangular-quadrilateral tokenization for mesh representation and a ray-based reward for geometric integrity.
 
