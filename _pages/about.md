@@ -39,7 +39,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 ## Technical Reports
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers、cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/papers/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation](https://arxiv.org/pdf/2603.00526)
