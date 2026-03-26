@@ -114,7 +114,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://yanxinhao.github.io/Projects/X-Part/) \| [**Paper**](https://arxiv.org/pdf/2509.08643) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Project**](https://yanxinhao.github.io/Projects/X-Part/) \| [**Paper**](https://arxiv.org/pdf/2509.08643) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/comp)
 
 - A controllable generative model designed to decompose a holistic 3D object into semantically meaningful and structurally coherent parts with high geometric fidelity.
 
@@ -234,7 +234,7 @@ to enable localized refinement 3D mesh generation.
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://hitcslj.github.io/mesh-rft/) \| [**Paper**](https://arxiv.org/pdf/2505.13573) 
+[**Paper**](https://arxiv.org/pdf/2505.13573) 
 
 - A mathematical framework, PTME, to evaluate existing mesh tokenizers without
 any training.
