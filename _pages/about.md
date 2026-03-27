@@ -263,7 +263,6 @@ any training.
 
 
 
-
 # 💻 Experience
 
 ## Full time
