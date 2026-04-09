@@ -266,7 +266,7 @@ any training.
 # 💻 Experience
 
 ## Full time
-- *2023.08 - Present*, Hunyuan 3D, Tencent, Senior Researcher, Leader of AI 3D Pipeline Models.
+- *2024.05 - Present*, Hunyuan 3D, Tencent, Senior Researcher, Leader of AI 3D Pipeline Models.
 - *2023.08 - 2024.05*, Sensetime, Senior Researcher.
 - *2021.08 - 2023.08*, Huawei, Postdoctoral Researcher.
 
