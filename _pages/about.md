@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Senior Researcher at Tencent Hunyuan, leading a research team focused on **AI 3D Pipeline Models**. 
+I am currently a Research Expert at Tencent Hunyuan, leading a research team focused on **AI 3D Pipeline Models**. 
 Our team is dedicated to reimagining the traditional 3D art pipeline using 3D generative models.
 Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multimodal Models**, **Auto UV Unwrapping**, **Auto Animation**, etc. Welcome to explore our AI models at [Hunyuan3D HomePage](https://3d.hunyuan.tencent.com/) or [Hunyuan3D Studio](https://3d.hunyuan.tencent.com/studio).
 
