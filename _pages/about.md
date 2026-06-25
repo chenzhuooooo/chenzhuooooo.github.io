@@ -90,6 +90,57 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 ## Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publications/icml2026_physforge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World](https://arxiv.org/abs/2605.05163)
+
+**Zhuo Chen** is project leader.
+
+[**Project**](https://hku-mmlab.github.io/PhysForge/) \| [**Paper**](https://arxiv.org/pdf/2605.05163) 
+
+- An innovative two-stage framework that decouples physical planning from physical realization.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/publications/eccv2026_p3sam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[P3-SAM: Native 3D Part Segmentation](https://arxiv.org/abs/2509.06784)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://arxiv.org/pdf/2509.06784) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/comp)
+
+- A native 3D point-promptable part segmentation model.
+
+</div>
+</div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 Findings</div><img src='images/publications/cvpr2026_universe3d.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[UniVerse3D: Emerging Properties of Unified Multimodal Models in 3D Understanding and Generation](https://openaccess.thecvf.com/content/CVPR2026F/papers/Ye_UniVerse3D_Emerging_Properties_of_Unified_Multimodal_Models_in_3D_Understanding_CVPRF_2026_paper.pdf)
+
+**Zhuo Chen** is project leader.
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2026F/papers/Ye_UniVerse3D_Emerging_Properties_of_Unified_Multimodal_Models_in_3D_Understanding_CVPRF_2026_paper.pdf) 
+
+- A foundational model that unifies 3D understanding, generation, and editing.
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/publications/cvpr2026_meshpro.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -97,7 +148,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Paper**](https://arxiv.org/pdf/2603.00526) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/poly)
+[**Paper**](https://arxiv.org/pdf/2603.00526) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/poly)
 
 - A novel 3D-aware RL algorithm named Advantage-guided Ranking Preference Optimization (ARPO).
 
@@ -114,7 +165,7 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 **Zhuo Chen** is project leader.
 
-[**Project**](https://yanxinhao.github.io/Projects/X-Part/) \| [**Paper**](https://arxiv.org/pdf/2509.08643) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/role/comp)
+[**Project**](https://yanxinhao.github.io/Projects/X-Part/) \| [**Paper**](https://arxiv.org/pdf/2509.08643) \| [**Code**](https://github.com/Tencent-Hunyuan/Hunyuan3D-Part/tree/main/XPart) \| [**Studio**](https://3d.hunyuan.tencent.com/studio/creation/comp)
 
 - A controllable generative model designed to decompose a holistic 3D object into semantically meaningful and structurally coherent parts with high geometric fidelity.
 
