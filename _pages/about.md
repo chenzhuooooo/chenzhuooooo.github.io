@@ -25,7 +25,9 @@ Our research primarily covers: **Artistic Mesh Generation**, **Unified 3D Multim
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Three papers are accepted by CVPR 2026.
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026.
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026.
+- *2026.02*: &nbsp;🎉🎉 Four papers are accepted by CVPR 2026.
 - *2026.01*: &nbsp;🎉🎉 Three papers are accepted by ICLR 2026.
 - *2025.09*: &nbsp;🎉🎉 Two papers are accepted by NeurIPS 2025.
 - *2025.04*: &nbsp;🎉🎉 One paper is accepted by ICML 2025.
